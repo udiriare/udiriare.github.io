@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udiriare.github.io/DqO/sitemap_index.txt
+Sitemap: https://udiriare.github.io/Xbh/sitemap_index.txt
+Sitemap: https://udiriare.github.io/Zir/sitemap_index.txt
+Sitemap: https://udiriare.github.io/rIv/sitemap_index.txt
